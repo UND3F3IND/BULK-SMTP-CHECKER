@@ -5,9 +5,9 @@ This script facilitates the process of checking SMTP servers for their validity.
 
 ┊Ｐｒｅｒｅｑｕｉｓｉｔｅｓ┊
 
-•Python 3.x
+Python 3.x
 
-•Required Libraries:
+【﻿Ｒｅｑｕｉｒｅｄ　Ｌｉｂｒａｒｉｅｓ：】
 
 •sys
 
