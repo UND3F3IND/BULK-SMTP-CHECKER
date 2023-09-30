@@ -1,4 +1,4 @@
-𝐁𝐔𝐋𝐊 𝐒𝐌𝐓𝐏 𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐒𝐜𝐫𝐢𝐩𝐭 𝐛𝐲 𝐔𝐍𝐃𝟑𝐅𝟑𝐈𝐍𝐃
+𝐁𝐔𝐋𝐊 𝐒𝐌𝐓𝐏 𝐂𝐡𝐞𝐜𝐤𝐞𝐫 𝐒𝐜𝐫𝐢𝐩𝐭 𝐛𝐲 𝐔𝐍𝐃𝟑𝐅𝟑𝐈𝐍𝐃
 
 
 This script facilitates the process of checking SMTP servers for their validity. It ensures whether given SMTP servers are functioning correctly by attempting to send an email through them.
